@@ -48,6 +48,8 @@ footer: 'WebRTC Meetup Tokyo #29'
 - 幼少期からプログラミングに親しみ、中学生時代に自作ホストプログラムでBBSを運営
 
 ---
+# <center>なお、WebRTC については<br/>初心者です</center>
+---
 ## お品書き
 ---
 ## しゃべるAIミニ四駆
